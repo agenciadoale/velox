@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Velox Fitness Service",
+  "description": "Site institucional completo e com SEO avançado para Velox Fitness Service, assistência técnica e manutenção de equipamentos de ginástica em São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
